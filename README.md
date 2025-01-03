@@ -8,5 +8,7 @@ For model evaluation we used "F1 score" on cross validation data (of training da
 
 
 F1 score                |  Cross validation data   |  Test data   |
+
 Logistic Regression     |         0.97             |     0.97     |
+
 SGD Classifier          |         0.98             |     0.98     |
